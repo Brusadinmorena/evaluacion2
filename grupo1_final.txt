@@ -1,3 +1,6 @@
 
 Trabajar en equipo con GitHub ayuda a que todos puedan colaborar sin pisarse el trabajo. 
 Permite guardar cambios, ver el progreso y corregir errores fácilmente. Así, cada uno aporta su parte y el proyecto se construye mejor entre todos.
+
+
+Camila:trabajamos con diferentes comandos dentro de git hub trtabajando en grupos permitiendo compartir informacion y por sincronizar ambos trabajos.
