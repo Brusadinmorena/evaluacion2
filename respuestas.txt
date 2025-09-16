@@ -10,3 +10,11 @@ Un commit sirve para guardar y registrar esos cambios con un mensaje que expliqu
 3. Importancia de un repositorio en la nube como GitHub en proyectos grupales:
 Usar GitHub permite que todos los miembros del grupo trabajen en el mismo proyecto sin perder información. 
 Facilita la colaboración, el control de versiones y asegura que todos tengan acceso a la última versión del trabajo.
+
+4.Si varios editan el mismo archivo al mismo tiempo, pueden aparecer conflictos porque se pisan los cambios. 
+Se soluciona eligiendo y uniendo las partes correctas antes de guardar.
+
+5. Aprendizaje sobre el trabajo colaborativo:
+
+Aprendimos que trabajar en grupo con GitHub es más fácil si hay organización y comunicación, 
+porque todos pueden aportar sin perder el trabajo de los demás.
