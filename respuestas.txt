@@ -1,0 +1,12 @@
+1. Diferencia entre git clone y git pull:
+
+git clone: es la url q permite descargar un proyecto.
+
+git pull: se usa después para actualizar tu proyecto con los cambios que subieron tus compañeros.
+
+2. Qué es un commit y para qué sirve:
+Un commit sirve para guardar y registrar esos cambios con un mensaje que explique qué hiciste.
+
+3. Importancia de un repositorio en la nube como GitHub en proyectos grupales:
+Usar GitHub permite que todos los miembros del grupo trabajen en el mismo proyecto sin perder información. 
+Facilita la colaboración, el control de versiones y asegura que todos tengan acceso a la última versión del trabajo.
